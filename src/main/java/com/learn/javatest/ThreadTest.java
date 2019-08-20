@@ -1,4 +1,4 @@
-package javatest;
+package com.learn.javatest;
 
 public class ThreadTest implements Runnable{
     public static void main(String[] args) {
@@ -23,11 +23,11 @@ public class ThreadTest implements Runnable{
 
 class MyThread extends Thread{
     public void run(){
-        System.out.println("extends thread to create thread...");
+        System.out.println("extends com.learn.thread to create com.learn.thread...");
     }
 }
 class MyThread2 implements Runnable{
     public void run() {
-        System.out.println("impl runnable to create thread...");
+        System.out.println("impl runnable to create com.learn.thread...");
     }
 }

@@ -1,4 +1,4 @@
-package javatest;
+package com.learn.javatest;
 
 public class Singleton {
 //    private static Singleton instance;

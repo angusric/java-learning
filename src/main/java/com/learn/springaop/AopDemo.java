@@ -1,4 +1,4 @@
-package springaop;
+package com.learn.springaop;
 
 public class AopDemo {
 

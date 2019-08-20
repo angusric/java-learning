@@ -1,6 +1,4 @@
-package javatest;
-
-import org.w3c.dom.Node;
+package com.learn.javatest;
 
 import java.util.HashMap;
 import java.util.Map;

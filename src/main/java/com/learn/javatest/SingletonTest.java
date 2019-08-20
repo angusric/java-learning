@@ -1,4 +1,4 @@
-package javatest;
+package com.learn.javatest;
 
 public class SingletonTest {
     public static void main(String[] args) {
